@@ -2,7 +2,7 @@
 
 > **Author:** Vishwa Sai Challa  
 > **Project Type:** Data Analysis & Visualization  
-> **Tools:** Power BI Desktop (Feb 2024 Edition), Bravo Tool, Measure Killer
+> **Tools:** Power BI Desktop (Feb 2024 Edition), Bravo Tool, Measure Killer 
 > **Dataset Size:** 200,000+ traffic crash records (From Kaggle)
 ---
 
