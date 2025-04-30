@@ -1,0 +1,48 @@
+{
+  "name": "RoadAccidentDarkTheme",
+  "dataColors": [
+    "#E94F37",
+    "#F4D35E",
+    "#6BBE44",
+    "#3778C2",
+    "#30A9DE",
+    "#EFDC05",
+    "#FF715B",
+    "#23CE6B",
+    "#6C5B7B"
+  ],
+  "background": "#1E1E2F",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#F4D35E",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": "#F4D35E",
+            "fontFamily": "Segoe UI",
+            "fontSize": 12
+          }
+        ],
+        "labelText": [
+          {
+            "color": "#CCCCCC",
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "dataLabels": [
+          {
+            "color": "#FFFFFF",
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "header": [
+          {
+            "color": "#FFFFFF",
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
